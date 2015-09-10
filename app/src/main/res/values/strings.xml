@@ -6,4 +6,5 @@
     <string name="bmi_weight">體重 (kg)</string>
     <string name="bmi_calculate">計算 BMI 值</string>
     <string name="hello_world"></string>
+    <string name="action_settings">Action Settings</string>
 </resources>
